@@ -1,0 +1,108 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-ul li a{
+    padding: 0px 20px !important;
+    font-size: 20px;
+    font-weight: 700px;
+    color: #1E1E1E;
+}
+
+.navbar-ul li a:hover{
+    color: #E90024;
+}
+
+.button{
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    background-color: #E90024;
+    border-radius: 10px;
+}
+.titel{
+    font-size: 50px;
+}
+.titel-span{
+    color: #E90024;
+}
+.section-one{
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.card-1{
+    border: none;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    padding: 30px 10px;
+    transition: 0.3s;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.5);
+}
+.card-1-title{
+    font-size: 30px;
+    padding: 20px 0px;
+    color: #1E1E1E;
+}
+.card-text{
+    color: grey;
+}
+.icon{
+    color: #E90024;
+    padding: 10px 0px;
+    margin-left: 15px;
+    font-size: 45px;
+}
+.section4-icon{
+    text-align: justify !important;
+    margin-left: 30px;
+}
+.section4-icon i{
+    color: #21b84c;
+}
+.section4-icon ul li{
+list-style: none;
+padding: 5px 0px;
+}
+.btn-color{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #FDE6EA;
+    border: none;
+    color: #E90024;
+}
+.card-2{
+    border: none;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+.description i{
+    color: orange;
+}
+.paragraph{
+    margin: 10px 0px;
+    color: grey;
+}
+.card-3{
+    border-radius: 20px;
+    border: none;
+    background-color: whitesmoke;
+}
+.accordin-2{
+    border-radius: 5px;
+    border: 2px solid #CFE2FF;
+}
+.footer-btn{
+    padding: 8px 10px;
+    border: 2px solid #E90024;
+    background-color: #E90024;
+    position: relative;
+    right: 30px;
+    color: white;
+    border-radius: 5px;
+    border-right:2px solid #E90024;
+}
+footer{
+    background-color: black;
+    padding-top: 50px ;
+    color: white;
+}
